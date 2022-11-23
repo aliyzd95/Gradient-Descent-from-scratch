@@ -2,7 +2,7 @@
 
 Investigating Gradient Descent behavior in linear regression.
 
-We used datasets with different shapes like blobs, circles, moons, s_curves and swiss_roll to investigate Gradient Descent behavior in linear regression.
+We used 2-dimentional datasets with different shapes like blobs, circles, moons, s_curves and swiss_roll to investigate Gradient Descent behavior in linear regression.
 First, with the closed-form solution, we obtained the line corresponding to the final solution of the linear regression (line-of-best-fit) and drew it.
 Then, with the Gradient Descent algorithm, we obtained the optimal response of the linear regression parameters for different learning rate values of 0.5, 0.2, 0.01 and 0.9. We also drew the starting (orange), middle (blue) and final (green) lines.
 
