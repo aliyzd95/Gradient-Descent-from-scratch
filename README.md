@@ -1,6 +1,6 @@
 # Gradient-Descent-from-scratch
 
-Investigating Gradient Descent behavior in linear regression.
+Investigating Gradient Descent behavior in linear regression
 
 I used 2-dimentional datasets with different shapes like blobs, circles, moons, s_curves and swiss_roll to investigate Gradient Descent behavior in linear regression.
 First, with the closed-form solution, I obtained the line corresponding to the final solution of the linear regression (line-of-best-fit) and drew it.
