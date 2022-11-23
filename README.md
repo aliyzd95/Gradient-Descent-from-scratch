@@ -8,7 +8,7 @@ Then, with the Gradient Descent algorithm, I obtained the optimal response of th
 
 For each data set, I drew the 3-dimensional view of the loss function and for each learning rate, I showed the movement of the Gradient Descent method to the global optimal minimum on the 3-dimensional shape and its 2-dimensional contour.
 
-In solving by GD method, all figures were drawn for the following three error functions.
+In solving with GD method, all figures were drawn for the following three error functions.
 
 <img src="https://user-images.githubusercontent.com/55990659/203610750-da48a73b-89e1-4611-89e4-77cb5af0dcc1.png" alt="loss functions" width="200"/>
 
