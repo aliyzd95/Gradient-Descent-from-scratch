@@ -12,8 +12,8 @@ In solving with GD method, all figures were drawn for the following three error 
 
 <img src="https://user-images.githubusercontent.com/55990659/203610750-da48a73b-89e1-4611-89e4-77cb5af0dcc1.png" alt="loss functions" width="200"/>
 
-## Example 1
+### Example 1
 <img src="https://user-images.githubusercontent.com/55990659/203610979-ab8077a2-cab1-4843-836a-2b9c6d7cdba2.png" width="75%"/>
 
-## Example 2
+### Example 2
 <img src="https://user-images.githubusercontent.com/55990659/203611131-102c14eb-4ccc-4695-be11-bd2cdd553fac.png" width="75%"/>
